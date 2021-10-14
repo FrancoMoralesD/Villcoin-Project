@@ -1,0 +1,43 @@
+.greenButton {
+    border: 2px solid #00b248;
+    background-color: #00e676;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.redButton {
+    border: 2px solid #ba000d;
+    background-color: #f44336;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+.yellowButton {
+    border: 2px solid #c7cc00;
+    background-color: #ffff00;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.blueButton {
+    border: 2px solid #0039cb;
+    background-color: #2962ff;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
